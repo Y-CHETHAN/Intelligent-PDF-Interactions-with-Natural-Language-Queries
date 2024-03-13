@@ -49,7 +49,7 @@ def main():
 
     session = create_datastax_connection()
 
-    os.environ['OPENAI_API_KEY'] = "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"
+    os.environ['OPENAI_API_KEY'] = "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"
     llm = OpenAI(temperature=0)
     openai_embeddings = OpenAIEmbeddings()
     table_name = 'qa_mini_demo'
@@ -104,7 +104,7 @@ def main():
                                               "content": cleaned_response})
         else:
             st.markdown(
-                'Upload your PDFs to chat'
+                'Upload your PDF to chat'
                 )
 
 if __name__ == '__main__':
