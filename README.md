@@ -67,3 +67,11 @@ Continuous evaluation and refinement of the system based on user feedback to ens
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## References
+1. Aggarwal, Mukul. "Information retrieval and question answering nlp approach: an artificial intelligence application." International Journal of Soft Computing and Engineering (IJSCE) 1, no. NCAI2011 (2011).
+2. Braun, S., & Tsay, J. (2022). A chatbot for PDFs: Using LangChain and Pinecone to build a conversational AI assistant for document management. arXiv preprint arXiv:2201.08244.
+3. Cai, H., & Liu, Z. (2022). A survey on large language models. arXiv preprint arXiv:2201.08237.
+4. Clementeena, A., and P. Sripriya. "A literature survey on question answering system in natural language processing." International Journal of Engineering and Technology (2018) 7, no. 3.3 (2018): 452-455.
+5. Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+
+
