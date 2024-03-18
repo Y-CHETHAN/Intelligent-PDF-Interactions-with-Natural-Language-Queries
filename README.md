@@ -14,13 +14,13 @@ The goal of this project is to develop a system that can answer natural language
 ## Requirements 
 - Python 3.x installed on your system.
 - Required Python libraries:
-  1.langchain
-  2.langchain.vectorstores.cassandra
-  3.langchain.indexes.vectorstore
-  4.langchain.embeddings
-  5.langchain.text_splitter
-  6.streamlit
-  7.PyPDF2
+  1. langchain
+  2. langchain.vectorstores.cassandra
+  3. langchain.indexes.vectorstore
+  4. langchain.embeddings
+  5. langchain.text_splitter
+  6. streamlit
+  7. PyPDF2
 
 ## Usage
 1. Clone the repository:
