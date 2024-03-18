@@ -31,9 +31,9 @@ git clone https://github.com/Y-CHETHAN/Intelligent-PDF-Interactions-with-Natural
 2. Install dependencies
 3. Set up necessary environment variables:
 
-- ASTRA_DB_APPLICATION_TOKEN: Your Astra DB application token.
-- ASTRA_DB_ID: Your Astra DB ID.
-- OPENAI_API_KEY: Your OpenAI API key.
+- **ASTRA_DB_APPLICATION_TOKEN:** Your Astra DB application token.
+- **ASTRA_DB_ID:** Your Astra DB ID.
+- **OPENAI_API_KEY:** Your OpenAI API key.
   
 4. Navigate to your Jupyter Notebook file (*.ipynb) and open it.
 
@@ -43,7 +43,7 @@ git clone https://github.com/Y-CHETHAN/Intelligent-PDF-Interactions-with-Natural
 
 - Once the notebook has been successfully executed, save any changes and close the notebook.
 
-5.Run the Streamlit app:
+5.Run the Streamlit app using the terminal:
 streamlit run pdf_chatbot.py
 
 ## System Architecture
@@ -53,7 +53,7 @@ streamlit run pdf_chatbot.py
 ## Output
 ![Chat with your PDF - Opera 28-02-2024 17_43_29](https://github.com/Y-CHETHAN/Intelligent-PDF-Interactions-with-Natural-Language-Queries/assets/75234991/9270f1a2-9782-4cab-98dd-14259c6e757a)
 
-## User Interface:
+## User Interface
 ![Chat with your PDF - Opera 28-02-2024 17_40_27](https://github.com/Y-CHETHAN/Intelligent-PDF-Interactions-with-Natural-Language-Queries/assets/75234991/80d0fffe-d4bd-47c0-98b8-064dd4453ca1)
 
 ## Results and Impacts
@@ -62,12 +62,12 @@ streamlit run pdf_chatbot.py
 3. Experimental evaluations demonstrate the system's efficacy and accuracy in retrieving precise information from digital documents.
 4. The project contributes to advancing the field of intelligent PDF interactions, providing a sophisticated and user-centric solution for efficient document analysis and extraction of meaningful insights.
 
-## Future Directions:
+## Future Directions
 Further enhancements could include support for more document formats, improved handling of complex queries, and integration of additional language models for enhanced response generation.
 Continuous evaluation and refinement of the system based on user feedback to ensure optimal performance and usability.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## References
 1. Aggarwal, Mukul. "Information retrieval and question answering nlp approach: an artificial intelligence application." International Journal of Soft Computing and Engineering (IJSCE) 1, no. NCAI2011 (2011).
