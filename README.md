@@ -52,7 +52,8 @@ streamlit run pdf_chatbot.py
 
 ## Output
 ![Chat with your PDF - Opera 28-02-2024 17_43_29](https://github.com/Y-CHETHAN/Intelligent-PDF-Interactions-with-Natural-Language-Queries/assets/75234991/9270f1a2-9782-4cab-98dd-14259c6e757a)
-# User Interface:
+
+## User Interface:
 ![Chat with your PDF - Opera 28-02-2024 17_40_27](https://github.com/Y-CHETHAN/Intelligent-PDF-Interactions-with-Natural-Language-Queries/assets/75234991/80d0fffe-d4bd-47c0-98b8-064dd4453ca1)
 
 ## Results and Impacts
@@ -60,6 +61,7 @@ streamlit run pdf_chatbot.py
 2. Integration of advanced technologies such as Cassandra and OpenAI's language models enhances the system's capabilities in processing and responding to user queries.
 3. Experimental evaluations demonstrate the system's efficacy and accuracy in retrieving precise information from digital documents.
 4. The project contributes to advancing the field of intelligent PDF interactions, providing a sophisticated and user-centric solution for efficient document analysis and extraction of meaningful insights.
+
 ## Future Directions:
 Further enhancements could include support for more document formats, improved handling of complex queries, and integration of additional language models for enhanced response generation.
 Continuous evaluation and refinement of the system based on user feedback to ensure optimal performance and usability.
