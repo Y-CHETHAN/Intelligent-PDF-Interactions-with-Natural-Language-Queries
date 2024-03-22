@@ -49,7 +49,7 @@ def main():
 
     session = create_datastax_connection()
 
-    os.environ['OPENAI_API_KEY'] = ""
+    os.environ['OPENAI_API_KEY'] = "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"
     llm = OpenAI(temperature=0)
     openai_embeddings = OpenAIEmbeddings()
     table_name = 'qa_mini_demo'
